@@ -22,11 +22,6 @@
   <h2>Contributing</h2>
 
   <p>Contributions are welcome! Feel free to open issues and pull requests to enhance the functionality or fix bugs.</p>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
 </body>
 
 </html>
